@@ -1,0 +1,38 @@
+<div class="col-sm-12 col-md-3">
+
+&nbsp;<br />
+
+
+	<p class="subinfo">
+		<strong>Categories</strong>
+	</p>
+	<p class="subinfo">
+	{% for category in site.my_categories %}
+	 # <a href="{{ category.url }}">{{ category.name }}</a><br />
+	{% endfor %}
+
+
+	</p>
+	<p class="subinfo">
+	<strong>Contact</strong>
+	</p><p class="subinfo">
+	em: <a href="mailto:chris@busse.io">chris@busse.io</a><br />
+	tw: <a href="https://twitter.com/busse">@busse</a>
+	</p>
+	<!--
+	<p class="subinfo">
+		# <a href="#">APIs</a><br />
+		# <a href="#">Cryptocurrency</a><br />
+		# <a href="#">RVA</a><br />
+		# <a href="#">etc.</a><br />&nbsp;<br/>
+	</p>
+	<p class="subinfo">
+	<strong>Recent Posts</strong>
+	<p class="subinfo"><a href="#">Working through an OpenAPI Spec 2.0 to 3.0 document</a></p>
+	<p class="subinfo"><a href="#">REVIEW: GoPro Hero 5 Black + Karma Grip</a></p>
+	<p class="subinfo"><a href="#">Five Days in Cozumel</a></p>
+	<p class="subinfo"><a href="#">ICO Screen I: September 2017</a></p>
+
+	</p>
+	-->	
+</div>

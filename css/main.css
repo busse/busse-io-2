@@ -1,0 +1,187 @@
+/*
+
+font-family: 'Rokkitt', serif;
+
+font-family: 'Open Sans', sans-serif;
+
+*/
+
+body {
+
+	font-family: 'Rokkitt', serif;
+	/*font-size: 1.1em;*/
+	font-size: 18px;
+
+	/*margin-top: 5em;*/
+	margin-top: 5px;
+	/*
+	margin-left: 20%;
+	margin-right: 30%;
+	*/
+}
+
+h1 {
+
+	font-family: 'Open Sans', sans-serif;
+	/*font-size: 1.5em;*/
+	font-size: 24px;
+	font-weight: bold;
+
+}
+
+h2 {
+
+	font-family: 'Open Sans', sans-serif;
+	/*font-size: 1.2em;*/
+	font-size: 20px;
+	font-weight: bold;
+}
+
+h3 {
+
+	font-family: 'Open Sans', sans-serif;
+	/*font-size: 0.9em;*/
+	font-size: 15px;
+	font-weight: bold;
+}
+
+p {
+		/*line-height: 1.4em;*/
+		line-height: 23px;
+}
+
+a:link, a:visited, a:hover, a:active {
+	color: #FF8800;
+	text-decoration: none;
+}
+
+.caret {
+	color: #FF8800;
+}
+
+.subinfo {
+
+	font-family: 'Open Sans', sans-serif;
+	font-size: 15px;
+	font-weight: 900;
+
+}
+
+a.subinfo:link, a.subinfo:visited, a.subinfo:hover, a.subinfo:active {
+	color: #FF8800;
+	text-decoration: none;
+}
+
+i {
+	color: #333;
+	text-decoration: none;
+}
+
+
+.row {
+	/* display: flex; */
+	margin-bottom:0.4em;
+}
+
+.dateline {
+	font-family: 'Inconsolata', sans-serif;
+	font-size: 0.7em;
+	font-weight: 500;
+	color: #999999; 
+}
+
+.titlelist {
+	font-size: 1.5em;
+}
+
+.inventory {
+	font-family: 'Inconsolata', sans-serif;
+	font-size: 0.9em;
+	font-weight: 700;
+	margin-right: 1.5em;
+	float: left;
+	width: 4em;
+}
+.item {
+	float: left;
+}
+
+.disclaimer-text {
+	
+	font-size: 11px;
+
+	text-align: center;
+	color: lightgrey;
+
+}
+.footer-text {
+font-size: 16px;
+
+}
+
+/* bootstrap overrides */
+
+/* navbar-brand like h1 */
+.navbar-brand {
+
+	font-family: 'Open Sans', sans-serif;
+	/*font-size: 1.5em;*/
+	font-size: 24px;
+	font-weight: bold;
+
+}
+
+.navbar-default .navbar-brand {
+color: #333;
+}
+/* minimal navbar*/
+.navbar {
+	border: 0px;
+}
+.navbar-default {
+background-color: #fff;
+border-color: #fff;
+
+}
+.pagehead {
+padding-right: 0px;
+padding-left: 0px;
+
+}
+
+/* clean hollow button */
+.btn-primary {
+background-color: #fff;
+border-color: #808080;
+}
+.btn-primary:focus,
+.btn-primary.focus {
+  /*color: #fff;*/
+  background-color: #808080;
+  border-color: #808080;
+}
+.btn-primary:hover {
+  /*color: #fff;*/
+  background-color: #808080;
+  border-color: #808080;
+}
+.btn-primary:active,
+.btn-primary.active,
+.open > .dropdown-toggle.btn-primary {
+  /*color: #fff;*/
+  background-color: #808080;
+  border-color: #808080;
+}
+.btn-primary:active:hover,
+.btn-primary.active:hover,
+.open > .dropdown-toggle.btn-primary:hover,
+.btn-primary:active:focus,
+.btn-primary.active:focus,
+.open > .dropdown-toggle.btn-primary:focus,
+.btn-primary:active.focus,
+.btn-primary.active.focus,
+.open > .dropdown-toggle.btn-primary.focus {
+  /*color: #fff;*/
+  background-color: #808080;
+  border-color: #808080;
+}

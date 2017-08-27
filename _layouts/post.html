@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+  {{ content }}
+
+  {% assign post = page %}
+  {% assign category = site.my_categories | where: "slug", post.category %}
+  {% assign category = category[0] %}
+  {% if category %}
+    {% capture category_content %}<a href="{{ category.url }}">{{ category.name }}</a>{% endcapture %}
+  {% endif %}
+ {% if category_content %}
+  <p class="subinfo">
+  &nbsp;<br />
+   Posted in {{ category_content }}
+  </p>
+{% endif %}
