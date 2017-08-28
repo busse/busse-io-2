@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Two ways to audit your GitHub Organizations for Two-Factor Authentication usage
 seq: 170306
 category: uncategorized

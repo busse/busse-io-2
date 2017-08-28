@@ -1,5 +1,4 @@
 ---
-layout: default
 title: The Startup Mentor Manifesto, Inverted for Startup Teams
 seq: 170308
 category: uncategorized
