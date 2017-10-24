@@ -1,7 +1,7 @@
 ---
 title: = The Path to a Successful API = an interview with Chris Busse on SwaggerHub
 seq: 161102
-category: uncategorized
+category: Elsewhere
 ---
 
 > While APIs have existed for over 50 years, they’ve only gone mainstream in the last decade or so, with a lot of buzz and interest around the technology.

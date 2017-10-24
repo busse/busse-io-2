@@ -1,7 +1,7 @@
 ---
 title: Lighthouse Labs Batch V - Mentor Open House - Overview
 seq: 170828
-category: Lighthouse Labs
+category: Lighthouse
 ---
 
 
