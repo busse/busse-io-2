@@ -4,7 +4,8 @@ seq: 171030
 category: Events
 ---
 
-Presented: [API Strat 2017](https://apistrat17.sched.com/event/f490266630e6b8ef151776c131c8ba17):
+  - First Presented: [API Strat 2017](https://apistrat17.sched.com/event/f490266630e6b8ef151776c131c8ba17)
+  - Presenting January 16, 2018: [Innsbrook Software Development User Group, Richmond VA](https://www.meetup.com/Innsbrook-Software-Development-User-Group/events/245235993/)
 
 > The classic text-based computer game "Lemonade Stand" was a favorite among elementary school students growing up in the 80s. It presented a simple model to teach business and economics. In this workshop we'll use it as the "legacy application" we've been asked by our client to turn into an API-first application.
 
