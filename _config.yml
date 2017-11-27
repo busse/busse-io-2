@@ -2,6 +2,9 @@ collections:
   my_categories:
     output: true
     permalink: /category/:name/
+  drafts:
+    output: true
+    permalink: /drafts/:title/
 
 defaults:
   -
@@ -15,6 +18,12 @@ defaults:
     scope:
       path: ""
       type: posts
+    values:
+      layout: post
+  -
+    scope:
+      path: ""
+      type: drafts
     values:
       layout: post
 
