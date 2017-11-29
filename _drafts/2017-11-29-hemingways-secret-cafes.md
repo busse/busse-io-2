@@ -1,7 +1,7 @@
 —
-title: Hemingway’s Secret Cafes
+title: Hemingways Secret Cafes
 seq: 171129
-category: Work
+category: Notes
 —
 
 In True At First Light, Ernest Hemingway describes his love for his (and Paris’s) “secret cafes”:
