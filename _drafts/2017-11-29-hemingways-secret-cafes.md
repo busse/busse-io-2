@@ -16,3 +16,22 @@ There is some research that shows why we often run into people we know [xxx] - s
 
 Sometimes though, I just want to be able to write and think as an anonymous diner - I want to find my own “secret cafe”.
 
+//
+
+WHile I was sitting here someone just came up to the guy at the table behind me and was like hey man I just wanted to say hi - is this your home base now?
+
+And he said yeah this is where I come to get work done, if I go in before 10am I just get pulled in to some many things!
+
+To which is friend replied, haha, I’ll keep this secret!
+
+//
+
+Ok, a second guy in a suit just walked up to the guy sitting behind me and said “Throw you out of your office” - he relied, “haha this is my office”, the interloper said “haha you gotta hide!”, shook his hand said “good to see you” and then walked away to leave his colleague to work in peace.
+
+//
+
+Shout out to coffeetivity
+
+> xx quote in book
+
+Check it out here
