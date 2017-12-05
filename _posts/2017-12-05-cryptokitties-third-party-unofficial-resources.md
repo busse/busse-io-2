@@ -15,6 +15,7 @@ This is a list of third-party and unofficial Cryptokitties resources. As such it
   - [CryptoKittydex](https://cryptokittydex.com/cattributes) - very useful for determining cattribute rarity
   - [Kitty Explorer](http://www.kittyexplorer.com/) - includes Generation Breakdown chart
   - [Kitty Tools](http://kittytools.herokuapp.com/sale)
+  - [CryptoKitty Stats](https://catstats.io/#)
 
 
 ## Browser Plugins
