@@ -1,5 +1,5 @@
 ---
-title: Cryptokitties Third-party and Unofficial Resources
+title: Cryptokitties Tools Third-party and Unofficial Resources
 seq: 171205
 category: cryptocurrency
 ---
