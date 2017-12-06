@@ -20,6 +20,7 @@ This is a list of third-party and unofficial Cryptokitties resources. As such it
 
 ## Browser Plugins
 
+  - [Cryptokitties Rarity Scanner](http://cryptokitties.co.uk/cryptokitties-rarity-scanner/)
   - [HaJaeKyung/CryptoCatAdd](https://github.com/HaJaeKyung/CryptoCatAdd) - Firefox - Gives color coded rarity info by hovering and more
 
 
