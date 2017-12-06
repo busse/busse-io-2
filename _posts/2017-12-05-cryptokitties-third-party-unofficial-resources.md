@@ -25,7 +25,7 @@ This is a list of third-party and unofficial Cryptokitties resources. As such it
 
 ## API & Dev Project Examples
 
-
+  - [Import Kitties to Elasticsearch](https://gist.github.com/banteg/9d50aebe049f9ba0e7207f11e7b600d8)
   - [https://www.npmjs.com/package/ethers-meow](https://www.npmjs.com/package/ethers-meow) - A simple CryptoKitties JavaScript library and command-line tool.
   - [devinmcinnis/statiskits](https://github.com/devinmcinnis/statiskits) is the repo for [https://kittytools.herokuapp.com/](https://kittytools.herokuapp.com/)
   - [https://api.cryptokitties.co/kitties](https://api.cryptokitties.co/kitties) API GET /kitties
