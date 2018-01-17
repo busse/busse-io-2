@@ -5,7 +5,7 @@ category: Events
 ---
 
   - First Presented: [API Strat 2017](https://apistrat17.sched.com/event/f490266630e6b8ef151776c131c8ba17)
-  - Presenting January 16, 2018: [Innsbrook Software Development User Group, Richmond VA](https://www.meetup.com/Innsbrook-Software-Development-User-Group/events/245235993/)
+  - Presented January 16, 2018: [Innsbrook Software Development User Group, Richmond VA](https://www.meetup.com/Innsbrook-Software-Development-User-Group/events/245235993/)
 
 > The classic text-based computer game "Lemonade Stand" was a favorite among elementary school students growing up in the 80s. It presented a simple model to teach business and economics. In this workshop we'll use it as the "legacy application" we've been asked by our client to turn into an API-first application.
 
@@ -13,7 +13,10 @@ category: Events
 
 > This workshop will be both fun and educational. Participants will leave with a better appreciation of what it takes to reorganize real-world legacy applications into a RESTful model represented by an Open API Specification.
 
-  - [API-first Redesign of a Legacy Application Workshop Presentation Deck (PDF)](https://schd.ws/hosted_files/apistrat17/55/APIStrat2017-Busse-Legacy-App-Lemonade-Stand.pdf)
+## Presentation Deck
+
+  - Meetups 2018 Version: [API-first Redesign of a Legacy Application Workshop Presentation Deck (PDF)](/assets/decks/2018Meetups-Busse-Legacy-App-Lemonade-Stand-Facilitator.pdf)
+  - APIStrat 2017 Version: [API-first Redesign of a Legacy Application Workshop Presentation Deck (PDF)](https://schd.ws/hosted_files/apistrat17/55/APIStrat2017-Busse-Legacy-App-Lemonade-Stand.pdf)
 
 
 ## Run Lemonade Stand
