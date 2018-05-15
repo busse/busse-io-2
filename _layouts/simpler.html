@@ -30,8 +30,9 @@
 
 	<div class="container">
 		<div class="row">
-			<div class="col-sm-12 col-md-3 col-md-push-9"><a href="/"><img src="/assets/logo-helvetidoodle70grey.png"></a></div>
-			<div class="col-sm-12 col-md-9 col-md-pull-3">
+			<div class="col-sm-12 col-md-3"><a href="/"><img src="/assets/logo-helvetidoodle70grey.png"></a></div>
+		</div><div class="row">
+			<div class="col-sm-12 col-md-9 ">
 				<h1>{{ page.title }}</h1>
 				<span class="dateline">{{ page.seq }}</span>
 			</div>
@@ -42,14 +43,12 @@
 			<div class="col-sm-12 col-md-9">
 			{{content}}
 			</div>
-			{% include right-sidebar.html %}	
 		</div>
 
 		<div class="row footer">
 	        <div class="col-sm-12 col-md-9">
 	        		<div class="panel panel-default">
 					<div class="panel-body">
-			        	{% include newsletter-cta.html %}	
 			        	{% include footer.html %}	
 			        </div>
 			    </div>
