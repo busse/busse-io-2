@@ -4,7 +4,7 @@ seq: 181017
 category: Projects
 ---
 
-As a user of the Pinboard.in link saving service, I want a simple utility that integrates with my GitHub Pages / Jekyll workflow to drive me to review the links on a regular basis and generate posts about those links.
+As a user of the [Pinboard.in](https://pinboard.in/u:busse) link saving service, I want a simple utility that integrates with my GitHub Pages / Jekyll workflow to drive me to review the links on a regular basis and generate posts about those links.
 
 MVP Acceptance Criteria:
 
